@@ -1,19 +1,25 @@
-# Weeman - http server for phishing
+# GenTiny
 
-This is a copy of the original https://github.com/Hypsurus/weeman repository because the complete account was removed. All credits goes to Hypsurus and the constributers of this project.
+URL shortener
 
-HTTP server for phishing in python.
-Version 1.7.1 is the last and latest version for weeman.
+<h3> Execution: </h3>
 
-# Requirements
+* apt-get install python3
 
-* Python 2.7
+* apt-get install git
 
-# Platforms
+* git clone https://github.com/AngelSecurityTeam/GenTiny
 
-* Linux
-* Mac
+* cd GenTiny
 
-# Copying
+* pip3 install requests
 
-See 'LICENSE' and lib/bs4/COPYING.txt
+* python3 gentiny.py URL o python3 gentiny2.py
+
+<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny.png">
+
+<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny2.png">
+
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
